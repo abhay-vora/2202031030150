@@ -1,0 +1,1925 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.trainers-NsZ {
+  box-sizing: border-box;
+  padding-bottom: 2.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.trainers-NsZ .auto-group-xsdd-5GB {
+  box-sizing: border-box;
+  padding: 4.6rem 4.124rem 21.924rem 10.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV {
+  margin: 0rem 5.876rem 3.8rem 0rem;
+  width: calc(100% - 5.8765rem);
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .logo-tzK {
+  margin: 0.9rem 57.6rem 0.9rem 0rem;
+  height: calc(100% - 1.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .logo-tzK .group-40-dS7 {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.407rem 0.401rem 0.3rem 0.214rem;
+  width: 4.7rem;
+  height: 100%;
+  background-color: #a1f65e;
+  border-radius: 2.35rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .logo-tzK .group-40-dS7 .logo-C7q {
+  box-sizing: border-box;
+  padding: 1.015rem 0.261rem 1.122rem 0.448rem;
+  width: 100%;
+  height: 100%;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .logo-tzK .group-40-dS7 .logo-C7q .vector-irs {
+  width: 3.375rem;
+  height: 1.857rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .logo-tzK .strengthy-E4X {
+  margin-top: 0.1rem;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #1d2229;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq {
+  margin-right: 11.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #1d2229;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-0 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-1 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-2 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-3 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-4 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-5 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-6 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-7 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-8 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .home-about-classes-trainers-newss-contact-5qq .home-about-classes-trainers-newss-contact-5qq-sub-9 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .auto-group-xsdd-5GB .header-nRV .menu-content-Krf .button-JJb {
+  width: 20.9rem;
+  height: 100%;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #1d2229;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f2f2;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .img-Q6j {
+  margin: 0rem 5.876rem 20rem 0rem;
+  box-sizing: border-box;
+  padding: 20.1rem 50.4rem 20.2rem 50.4rem;
+  width: 171.5rem;
+  height: 49.6rem;
+  background-color: #1c2128;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group.png');
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .img-Q6j .display-text-W9m {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .img-Q6j .display-text-W9m .meet-our-trainers-emm {
+  width: 70.1rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  text-align: center;
+  font-size: 8rem;
+  font-weight: 800;
+  line-height: 1.1;
+  color: #181c20;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .img-Q6j .display-text-W9m .meet-our-trainers-wks {
+  width: 70.1rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  text-align: center;
+  font-size: 8rem;
+  font-weight: 800;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u {
+  margin-left: 15.5rem;
+  width: 161.8765rem;
+  height: 176.7765rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .heading-N5V {
+  width: 109.7529rem;
+  height: 26.9529rem;
+  position: absolute;
+  left: 52.1235rem;
+  top: 149.8235rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP {
+  width: 140rem;
+  height: 164.9416rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .title-SLF {
+  margin: 0rem 44.55rem 4.7rem 44.55rem;
+  width: calc(100% - 89.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .title-SLF .our-trainers-Zfm {
+  margin-bottom: 0.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: 0.8rem;
+  text-transform: uppercase;
+  color: #524ff5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .title-SLF .we-trained-you-to-gain-UXq {
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #1b2129;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf {
+  margin-bottom: 8rem;
+  width: 100%;
+  height: 72.0708rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf {
+  width: 44.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .image-SNB {
+  margin: 0rem 0.002rem 0rem 0.002rem;
+  width: calc(100% - 0.0037rem);
+  background-color: #c4c4c4;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .image-SNB .auto-group-e5fu-ZSo {
+  width: 44.7963rem;
+  height: 42.903rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP {
+  box-sizing: border-box;
+  padding: 4.9rem 4.45rem 4.9rem 4.45rem;
+  width: 100%;
+  height: 29.1678rem;
+  background-color: #1b2129;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .name-xUw {
+  margin: 0rem 0.2rem 2.2rem 0rem;
+  width: calc(100% - 0.2rem);
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .name-xUw .miranda-gA3 {
+  margin-right: 22.2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .name-xUw .star-okT {
+  margin: 0.35rem 0;
+  width: 3.6rem;
+  height: calc(100% - 0.7rem);
+  position: relative;
+  border-radius: 0.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .name-xUw .star-okT .star-x7Z {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.1rem;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .name-xUw .star-okT .item-5-gpF {
+  width: 1.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .line-mqh {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #49505a;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .content-7ef {
+  width: 31.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .content-7ef .specilitis-5bV {
+  margin-bottom: 3.7774rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .content-7ef .specilitis-5bV .specialisations--dd1 {
+  margin-bottom: 0.4644rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .content-7ef .specilitis-5bV .crossfit-expoort-nutrition-rehab-ZWf {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #848484;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .content-7ef .social-icon-h75 {
+  margin-right: 24.8812rem;
+  width: calc(100% - 24.8812rem);
+  display: flex;
+  align-items: center;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .content-7ef .social-icon-h75 .insta-Esh {
+  margin-right: 1.8rem;
+  width: 2.2094rem;
+  height: 2.1261rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-1-tLf .details-siP .content-CVm .content-7ef .social-icon-h75 .fb-Nj1 {
+  margin-top: 0rem;
+  width: 2.2094rem;
+  height: 2.1133rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D {
+  width: 44.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .image-duq {
+  margin: 0rem 0.002rem 0rem 0.002rem;
+  width: calc(100% - 0.0037rem);
+  background-color: #c4c4c4;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .image-duq .auto-group-ty75-BAf {
+  width: 44.7963rem;
+  height: 42.903rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu {
+  box-sizing: border-box;
+  padding: 4.9rem 4.25rem 4.9rem 4.45rem;
+  width: 100%;
+  height: 29.1678rem;
+  background-color: #1b2129;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .name-ycK {
+  width: 100%;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .name-ycK .madison-froning-LBy {
+  margin-right: 12.3rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .name-ycK .star-47y {
+  margin: 0.35rem 0;
+  width: 3.6rem;
+  height: calc(100% - 0.7rem);
+  position: relative;
+  border-radius: 0.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .name-ycK .star-47y .star-bdh {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.1rem;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .name-ycK .star-47y .item-5-XnF {
+  width: 1.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 {
+  box-sizing: border-box;
+  padding-top: 2.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 .line-wLB {
+  margin-bottom: 2.1rem;
+  width: 35.9rem;
+  height: 0.1rem;
+  background-color: #49505a;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 .content-H99 {
+  width: 31.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 .content-H99 .specilitis-2sR {
+  margin-bottom: 3.7774rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 .content-H99 .specilitis-2sR .specialisations--z3Z {
+  margin-bottom: 0.4644rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 .content-H99 .specilitis-2sR .crossfit-expoort-nutrition-rehab-uAX {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #848484;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 .content-H99 .social-icon-2W3 {
+  display: flex;
+  column-gap: 1.8rem;
+  align-items: center;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 .content-H99 .social-icon-2W3 .insta-myR {
+  width: 2.2094rem;
+  height: 2.1261rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 .content-H99 .social-icon-2W3 .fb-XSo {
+  margin-top: 0rem;
+  width: 2.2094rem;
+  height: 2.1133rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-2-69D .details-hPu .content-d2f .auto-group-8lkw-Qb9 .content-H99 .social-icon-2W3 .twiter-g4o {
+  margin-bottom: 0rem;
+  width: 2.3672rem;
+  height: 1.8924rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 {
+  width: 44.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .image-Y71 {
+  margin: 0rem 0.002rem 0rem 0.002rem;
+  width: calc(100% - 0.0037rem);
+  background-color: #c4c4c4;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .image-Y71 .auto-group-lxmz-GHu {
+  width: 44.7963rem;
+  height: 42.903rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR {
+  box-sizing: border-box;
+  padding: 4.9rem 4.45rem 4.9rem 4.45rem;
+  width: 100%;
+  height: 29.1678rem;
+  background-color: #1b2129;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .name-5m9 {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .name-5m9 .joshua-frankilin-pyd {
+  margin-right: 12.6rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .name-5m9 .star-ZAX {
+  margin: 0.35rem 0;
+  width: 3.6rem;
+  height: calc(100% - 0.7rem);
+  position: relative;
+  border-radius: 0.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .name-5m9 .star-ZAX .star-hGj {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.1rem;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .name-5m9 .star-ZAX .item-5-RiX {
+  width: 1.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .line-ixX {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #49505a;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .content-sqR {
+  width: 31.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .content-sqR .specilitis-pkf {
+  margin-bottom: 3.7774rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .content-sqR .specilitis-pkf .specialisations--aE3 {
+  margin-bottom: 0.4644rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .content-sqR .specilitis-pkf .crossfit-expoort-nutrition-rehab-V67 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #848484;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .content-sqR .social-icon-1q9 {
+  margin-right: 24.8812rem;
+  width: calc(100% - 24.8812rem);
+  display: flex;
+  align-items: center;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .content-sqR .social-icon-1q9 .insta-y1H {
+  margin-right: 1.8rem;
+  width: 2.2094rem;
+  height: 2.1261rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-1-AQf .item-3-CJ3 .details-PdR .content-8L7 .content-sqR .social-icon-1q9 .fb-iDm {
+  margin-top: 0rem;
+  width: 2.2094rem;
+  height: 2.1133rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 {
+  width: 100%;
+  height: 72.0708rem;
+  display: flex;
+  column-gap: 2.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV {
+  width: 44.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .image-YCo {
+  width: 44.7963rem;
+  height: 42.903rem;
+  position: absolute;
+  left: 0.0019rem;
+  top: 0;
+  background-color: #c4c4c4;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .image-YCo .auto-group-7a15-HAP {
+  width: 44.7963rem;
+  height: 42.903rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb {
+  box-sizing: border-box;
+  padding: 4.9rem 4.25rem 4.9rem 4.45rem;
+  width: 44.8rem;
+  height: 29.1678rem;
+  position: absolute;
+  left: 0;
+  top: 42.903rem;
+  background-color: #1b2129;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .name-W39 {
+  width: 100%;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .name-W39 .jhon-willson-rMu {
+  margin-right: 16.3rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .name-W39 .star-aoh {
+  margin: 0.35rem 0;
+  width: 3.6rem;
+  height: calc(100% - 0.7rem);
+  position: relative;
+  border-radius: 0.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .name-W39 .star-aoh .star-XU3 {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.1rem;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .name-W39 .star-aoh .item-5-3xB {
+  width: 1.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .auto-group-aahd-wnf {
+  box-sizing: border-box;
+  padding-top: 2.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .auto-group-aahd-wnf .line-J7R {
+  margin-bottom: 2.1rem;
+  width: 35.9rem;
+  height: 0.1rem;
+  background-color: #49505a;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .auto-group-aahd-wnf .content-qNF {
+  width: 31.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .auto-group-aahd-wnf .content-qNF .specilitis-bcK {
+  margin-bottom: 3.7774rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .auto-group-aahd-wnf .content-qNF .specilitis-bcK .specialisations--xBy {
+  margin-bottom: 0.4643rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .auto-group-aahd-wnf .content-qNF .specilitis-bcK .crossfit-expoort-nutrition-rehab-gdm {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #848484;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .auto-group-aahd-wnf .content-qNF .social-icon-oyH {
+  margin-right: 24.8812rem;
+  width: calc(100% - 24.8812rem);
+  display: flex;
+  align-items: center;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .auto-group-aahd-wnf .content-qNF .social-icon-oyH .insta-A39 {
+  margin-right: 1.8rem;
+  width: 2.2094rem;
+  height: 2.1261rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-1-yfV .details-RGb .content-9Cb .auto-group-aahd-wnf .content-qNF .social-icon-oyH .fb-Vr7 {
+  margin-bottom: 0rem;
+  width: 2.2094rem;
+  height: 2.1133rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs {
+  width: 44.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .image-Nuu {
+  width: 44.7963rem;
+  height: 42.903rem;
+  position: absolute;
+  left: 0.0019rem;
+  top: 0;
+  background-color: #c4c4c4;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .image-Nuu .auto-group-jvvf-vAj {
+  width: 44.7963rem;
+  height: 42.903rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum {
+  box-sizing: border-box;
+  padding: 4.9rem 4.35rem 4.9rem 4.45rem;
+  width: 44.8rem;
+  height: 29.1678rem;
+  position: absolute;
+  left: 0;
+  top: 42.903rem;
+  background-color: #1b2129;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .name-W8w {
+  width: 100%;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .name-W8w .steve-smith-4AT {
+  margin-right: 17.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .name-W8w .star-mqZ {
+  margin: 0.35rem 0;
+  width: 3.6rem;
+  height: calc(100% - 0.7rem);
+  position: relative;
+  border-radius: 0.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .name-W8w .star-mqZ .star-iF1 {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.1rem;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .name-W8w .star-mqZ .item-5-dsm {
+  width: 1.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby {
+  box-sizing: border-box;
+  padding-top: 2.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby .line-Fu9 {
+  margin-bottom: 2.1rem;
+  width: 35.9rem;
+  height: 0.1rem;
+  background-color: #49505a;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby .content-by1 {
+  width: 31.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby .content-by1 .specilitis-MxB {
+  margin-bottom: 3.7774rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby .content-by1 .specilitis-MxB .specialisations--uyh {
+  margin-bottom: 0.4643rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby .content-by1 .specilitis-MxB .crossfit-expoort-nutrition-rehab-3KD {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #848484;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby .content-by1 .social-icon-mm1 {
+  display: flex;
+  column-gap: 1.8rem;
+  align-items: center;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby .content-by1 .social-icon-mm1 .insta-L3R {
+  width: 2.2094rem;
+  height: 2.1261rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby .content-by1 .social-icon-mm1 .fb-gNB {
+  margin-bottom: 0rem;
+  width: 2.2094rem;
+  height: 2.1133rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-2-RUs .details-Sum .content-NHd .auto-group-mug7-vby .content-by1 .social-icon-mm1 .twiter-pjH {
+  margin-top: 0rem;
+  width: 2.3672rem;
+  height: 1.8924rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou {
+  width: 44.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .image-JPZ {
+  width: 44.7963rem;
+  height: 42.903rem;
+  position: absolute;
+  left: 0.0019rem;
+  top: 0;
+  background-color: #c4c4c4;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .image-JPZ .auto-group-ki4f-3M9 {
+  width: 44.7963rem;
+  height: 42.903rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q {
+  box-sizing: border-box;
+  padding: 4.9rem 4.25rem 4.9rem 4.45rem;
+  width: 44.8rem;
+  height: 29.1678rem;
+  position: absolute;
+  left: 0;
+  top: 42.903rem;
+  background-color: #1b2129;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .name-Fy1 {
+  width: 100%;
+  height: 2.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .name-Fy1 .kane-lucy-coZ {
+  margin-right: 19.9rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .name-Fy1 .star-Mm9 {
+  margin: 0.35rem 0;
+  width: 3.6rem;
+  height: calc(100% - 0.7rem);
+  position: relative;
+  border-radius: 0.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .name-Fy1 .star-Mm9 .star-ha7 {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.1rem;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .name-Fy1 .star-Mm9 .item-5-Rm1 {
+  width: 1.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.8rem;
+  top: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.1000000636;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .auto-group-famm-7tj {
+  box-sizing: border-box;
+  padding-top: 2.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .auto-group-famm-7tj .line-Txb {
+  margin-bottom: 2.1rem;
+  width: 35.9rem;
+  height: 0.1rem;
+  background-color: #49505a;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .auto-group-famm-7tj .content-CvB {
+  width: 31.1rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .auto-group-famm-7tj .content-CvB .specilitis-xuM {
+  margin-bottom: 3.7774rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .auto-group-famm-7tj .content-CvB .specilitis-xuM .specialisations--XSf {
+  margin-bottom: 0.4643rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .auto-group-famm-7tj .content-CvB .specilitis-xuM .crossfit-expoort-nutrition-rehab-FdZ {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #848484;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .auto-group-famm-7tj .content-CvB .social-icon-avj {
+  margin-right: 24.8812rem;
+  width: calc(100% - 24.8812rem);
+  display: flex;
+  align-items: center;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .auto-group-famm-7tj .content-CvB .social-icon-avj .insta-YMm {
+  margin-right: 1.8rem;
+  width: 2.2094rem;
+  height: 2.1261rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .auto-group-xsdd-5GB .team-d7u .content-6GP .our-trainer-Cij .item-2-319 .item-3-wou .details-n3q .content-6aK .auto-group-famm-7tj .content-CvB .social-icon-avj .fb-Hq9 {
+  margin-bottom: 0rem;
+  width: 2.2094rem;
+  height: 2.1133rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o {
+  margin-bottom: 20rem;
+  width: 100%;
+  height: 132.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .background-wPu {
+  width: 192.5rem;
+  height: 91.2rem;
+  position: absolute;
+  left: 0;
+  top: 41.5rem;
+  background-color: #1c2128;
+}
+.trainers-NsZ .video-o2o .content-5W7 {
+  width: 140.05rem;
+  height: 112.7rem;
+  position: absolute;
+  left: 26rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.trainers-NsZ .video-o2o .content-5W7 .content-R4B {
+  margin: 0rem 40.475rem 4.3rem 40.475rem;
+  width: calc(100% - 80.95rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .content-5W7 .content-R4B .title-YPh {
+  margin: 0rem 1.05rem 3.4rem 1.05rem;
+  width: calc(100% - 2.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .content-5W7 .content-R4B .title-YPh .welcome-GqV {
+  margin-bottom: 0.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: 0.8rem;
+  text-transform: uppercase;
+  color: #524ff5;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .content-5W7 .content-R4B .title-YPh .take-a-look-at-my-routines-PQK {
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #1b2129;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .content-5W7 .content-R4B .it-is-a-long-established-and-fact-that-a-reader-will-be-distracted-by-the-readabled-content-of-a-pages-when-looking-at-its-layout-7bD {
+  max-width: 59.1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.45;
+  color: #6a6a6a;
+  font-family: Lato, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .content-5W7 .video-Bb5 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .content-5W7 .video-Bb5 .video-YAj {
+  margin-bottom: 10.1rem;
+  width: 100%;
+  height: 74.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .content-5W7 .video-Bb5 .video-YAj .background-V5y {
+  width: 140rem;
+  height: 74.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #c4c4c4;
+}
+.trainers-NsZ .video-o2o .content-5W7 .video-Bb5 .video-YAj .image-dhy {
+  width: 140rem;
+  height: 74.5rem;
+  position: absolute;
+  left: 0.05rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .video-o2o .content-5W7 .video-Bb5 .video-YAj .play-button-aNK {
+  box-sizing: border-box;
+  padding: 5.1rem 5.25rem 5.2rem 6.35rem;
+  width: 14.4rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 62.85rem;
+  top: 30.1rem;
+  background-color: #1c2128;
+  border-radius: 7.2rem;
+}
+.trainers-NsZ .video-o2o .content-5W7 .video-Bb5 .video-YAj .play-button-aNK .vector-Uib {
+  width: 2.8rem;
+  height: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .video-o2o .content-5W7 .video-Bb5 .button-PqZ {
+  margin: 0 48.525rem;
+  width: calc(100% - 97.05rem);
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .content-5W7 .video-Bb5 .button-PqZ .button-Xwm {
+  margin-right: 1rem;
+  width: 21rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #2e2e2e;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a1f65e;
+  flex-shrink: 0;
+}
+.trainers-NsZ .video-o2o .content-5W7 .video-Bb5 .button-PqZ .button-S39 {
+  width: 21rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD {
+  margin: 0 10.6rem;
+  width: calc(100% - 21.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .background-s8T {
+  width: 100%;
+  height: 27.5rem;
+  background: linear-gradient(88.53deg, #962be4 101.19%, #974cc9 133.62%, #dd113e 169.12%, #f8c800 200%);
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .item-1-ANT {
+  width: 28.4999rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .item-2-uL3 {
+  width: 28.4002rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 28.4999rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .item-3-3BM {
+  width: 28.4999rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 56.9001rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .item-4-y51 {
+  width: 28.4999rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 85.4rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .item-5-H5h {
+  width: 28.4002rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 113.8999rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .item-6-PeX {
+  width: 28.4999rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 142.3001rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .follow-me-on-instagram-jTV {
+  width: 50.9rem;
+  height: 5rem;
+  position: absolute;
+  left: 59.95rem;
+  top: 11.3rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .follow-me-on-instagram-jTV .follow-me-on-instagram-jTV-sub-0 {
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .follow-me-on-instagram-jTV .follow-me-on-instagram-jTV-sub-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm {
+  width: 170.8rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .rectangle-295-yWF {
+  width: 170.8rem;
+  height: 27.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(88.53deg, #962be4 101.19%, #974cc9 133.62%, #dd113e 169.12%, #f8c800 200%);
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 {
+  width: 170.8rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .group-23-Jwq {
+  margin-right: 0rem;
+  width: 28.4999rem;
+  height: 27.4761rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .group-24-So9 {
+  margin-right: 0.0001rem;
+  width: 28.4002rem;
+  height: 27.4761rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .auto-group-27zy-aeT {
+  margin-right: 0rem;
+  width: 85.3999rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .auto-group-27zy-aeT .group-25-iVm {
+  width: 28.4999rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .auto-group-27zy-aeT .group-27-GXH {
+  width: 28.4002rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 56.9997rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .auto-group-27zy-aeT .group-26-1Us {
+  width: 28.4999rem;
+  height: 27.4761rem;
+  position: absolute;
+  left: 28.4998rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .auto-group-27zy-aeT .follow-me-on-instagram-M2w {
+  width: 50.9rem;
+  height: 5rem;
+  position: absolute;
+  left: 3.0498rem;
+  top: 11.2rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .auto-group-27zy-aeT .follow-me-on-instagram-M2w .follow-me-on-instagram-M2w-sub-0 {
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .auto-group-27zy-aeT .follow-me-on-instagram-M2w .follow-me-on-instagram-M2w-sub-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .background-s8T .background-image-d7d .instagram-EHm .group-29-aF9 .group-28-JMV {
+  width: 28.4999rem;
+  height: 27.4761rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 10.5rem 15.4rem 5.5rem 15.3rem;
+  width: 100%;
+  height: 60.8rem;
+  background-color: #1c2229;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF {
+  margin-right: 13.3rem;
+  width: 43.6rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .content-NEs {
+  margin-bottom: 4.8rem;
+  width: 41.2rem;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .content-NEs .logo-JuD {
+  margin: 0rem 20.6rem 1.7rem 0rem;
+  width: calc(100% - 20.6rem);
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .content-NEs .logo-JuD .icon-pcf {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.407rem 0.401rem 0.3rem 0.214rem;
+  width: 4.7rem;
+  height: 100%;
+  background-color: #a1f65e;
+  border-radius: 2.35rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .content-NEs .logo-JuD .icon-pcf .logo-Lqu {
+  box-sizing: border-box;
+  padding: 1.015rem 0.261rem 1.122rem 0.448rem;
+  width: 100%;
+  height: 100%;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .content-NEs .logo-JuD .icon-pcf .logo-Lqu .vector-4X1 {
+  width: 3.375rem;
+  height: 1.857rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .content-NEs .logo-JuD .strengthy-bG3 {
+  margin-top: 0.1rem;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .content-NEs .it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-815 {
+  max-width: 41.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.45;
+  text-transform: capitalize;
+  color: #bcbcbc;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .call-and-mail-RF5 {
+  box-sizing: border-box;
+  padding: 3.6rem 3.7rem 0.9rem 3.7rem;
+  width: 100%;
+  border: solid 0.1rem #474f59;
+  background-color: #232a31;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .call-and-mail-RF5 .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd {
+  max-width: 12.1rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4500000212;
+  text-transform: capitalize;
+  color: #bcbcbc;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .call-and-mail-RF5 .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 900;
+  line-height: 1.4500000212;
+  text-transform: capitalize;
+  color: #a1f65e;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .call-and-mail-RF5 .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4500000212;
+  text-transform: capitalize;
+  color: #bcbcbc;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .call-and-mail-RF5 .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd-sub-2 {
+  font-size: 1.8rem;
+  font-weight: 900;
+  line-height: 1.4500000212;
+  text-transform: capitalize;
+  color: #a1f65e;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .call-and-mail-RF5 .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd-sub-3 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4500000212;
+  text-transform: capitalize;
+  color: #bcbcbc;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-1-pUF .call-and-mail-RF5 .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd .call-01234-987654-098765-34621-mail-contactfitnessfitcom-MPd-sub-4 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.4500000212;
+  text-transform: capitalize;
+  color: #bcbcbc;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-2-Wxf {
+  margin-right: 23.2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-2-Wxf .utility-pages-4jH {
+  margin-bottom: 3.2rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-2-Wxf .style-guide-changelog-404-page-password-protected-licenses-contact-oB5 {
+  max-width: 17.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.425;
+  text-transform: capitalize;
+  color: #bcbcbc;
+  font-family: Lato, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-2-Wxf .style-guide-changelog-404-page-password-protected-licenses-contact-oB5 .style-guide-changelog-404-page-password-protected-licenses-contact-oB5-sub-0 {
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-2-Wxf .style-guide-changelog-404-page-password-protected-licenses-contact-oB5 .style-guide-changelog-404-page-password-protected-licenses-contact-oB5-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 2.425;
+  text-transform: capitalize;
+  color: #bcbcbc;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-2-Wxf .style-guide-changelog-404-page-password-protected-licenses-contact-oB5 .style-guide-changelog-404-page-password-protected-licenses-contact-oB5-sub-2 {
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ {
+  width: 42.3rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX .newsletter-CsR {
+  margin-bottom: 3.5rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX .content-91y {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX .content-91y .button-u19 {
+  margin-bottom: 4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX .content-91y .button-u19 .mail-rBH {
+  margin-bottom: 1.8rem;
+  box-sizing: border-box;
+  padding: 2rem 3.8rem 1.8rem 3.8rem;
+  width: 100%;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-transform: lowercase;
+  color: #bcbcbc;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #474f59;
+  background-color: #232a31;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX .content-91y .button-u19 .button-77D {
+  width: 20.9rem;
+  height: 6.5rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #2e2e2e;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #a1f65e;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX .content-91y .social-media-nj9 {
+  display: flex;
+  column-gap: 1.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX .content-91y .social-media-nj9 .insta-jPV {
+  width: 2.2094rem;
+  height: 2.1261rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX .content-91y .social-media-nj9 .fb-sVh {
+  margin-top: 0rem;
+  width: 2.2094rem;
+  height: 2.1133rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .item-3-3zX .content-91y .social-media-nj9 .twiter-oPM {
+  margin-bottom: 0rem;
+  width: 2.3672rem;
+  height: 1.8924rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .top-8gX {
+  margin-left: 0.1rem;
+  width: calc(100% - 0.1rem);
+  height: 5.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .top-8gX .line-fgT {
+  margin: 0.2rem 2.9rem 0rem 0rem;
+  width: 33.6rem;
+  height: 0.1rem;
+  background-color: #485059;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .top-8gX .up-arrow-b4K {
+  box-sizing: border-box;
+  padding: 2.4rem 2.2rem 2.7rem 2.3rem;
+  height: 100%;
+  border: solid 0.1rem #485059;
+  border-radius: 2.85rem;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .sub-content-kjH .sub-content-sJ7 .item-3-iBZ .top-8gX .up-arrow-b4K .vector-L1u {
+  width: 1.2rem;
+  height: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .copyright-fitnessfit-designed-byvictorflow-templates-powered-by-webflow-S4w {
+  margin-right: 0.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 2.425;
+  text-transform: capitalize;
+  color: #6a6a6a;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.trainers-NsZ .footer-vDD .footer-bbV .copyright-fitnessfit-designed-byvictorflow-templates-powered-by-webflow-S4w .copyright-fitnessfit-designed-byvictorflow-templates-powered-by-webflow-S4w-sub-0 {
+}
+.trainers-NsZ .footer-vDD .footer-bbV .copyright-fitnessfit-designed-byvictorflow-templates-powered-by-webflow-S4w .copyright-fitnessfit-designed-byvictorflow-templates-powered-by-webflow-S4w-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.425;
+  text-transform: capitalize;
+  color: #524ff5;
+  font-family: Lato, 'Source Sans Pro';
+}
+.trainers-NsZ .footer-vDD .footer-bbV .copyright-fitnessfit-designed-byvictorflow-templates-powered-by-webflow-S4w .copyright-fitnessfit-designed-byvictorflow-templates-powered-by-webflow-S4w-sub-2 {
+}
